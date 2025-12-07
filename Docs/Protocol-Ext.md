@@ -101,5 +101,5 @@ Info fork lengths follow the same pattern. Legacy readers that ignore the high w
 - Resource forks: resource fork headers also use the high/low 64-bit layout under `HTXF_FLAG_LARGE_FILE`.
 - Setting HTXF length to zero for >4 GiB is required to avoid early termination by 32-bit peers.
 
-Status: draft; subject to refinement
+Status: draft; subject to refinement  
 Codename: Pitbull? More like Bullshit!
